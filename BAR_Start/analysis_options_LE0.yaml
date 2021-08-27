@@ -1,0 +1,5 @@
+general:
+    # folder_output: BAR_DRC_LE0_SS50SE95_0degcone_outputs
+    # fname_output: BAR_DRC_LE0_SS50SE95_0degcone_output
+    folder_output: BAR_DRC_LE0_SS50SE95_slowPitch_outputs
+    fname_output: BAR_DRC_LE0_SS50SE95_slowPitch_output

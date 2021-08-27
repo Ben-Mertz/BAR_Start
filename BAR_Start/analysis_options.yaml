@@ -1,0 +1,5 @@
+general:
+    # folder_output: BAR_DRC_TE_outputs
+    # fname_output: BAR_DRC_TE_output
+    folder_output: BAR_DRC_clean_1degcone_DLC11_outputs
+    fname_output: BAR_DRC_clean_1degcone_DLC11_output
